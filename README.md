@@ -46,3 +46,6 @@ When describing an image, you follow these principles:
 
 Lastly, activate Custom Instructions when usign DALL-E 3.
 
+**Option 3. GOD MODE: Use GPTs!**
+
+
