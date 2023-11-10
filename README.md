@@ -25,7 +25,6 @@ When describing an image, you follow these principles:
 
 <paste the instruction from ChatGPT here>
 
-
 ```
 
 **Option 2. Use Custom Instructions.**
@@ -40,6 +39,8 @@ You are an expert in describing [desired designs].
 When describing an image, you follow these principles:
 
 <paste the concise instructions form ChatGPT here>
+
+Use DALLE 3 to generate images based off of you descriptions
 
 ```
 
