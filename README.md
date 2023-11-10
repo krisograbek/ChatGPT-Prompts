@@ -49,4 +49,6 @@ Lastly, activate Custom Instructions when usign DALL-E 3.
 
 **Option 3. GOD MODE: Use GPTs!**
 
+Link to my GPT: https://chat.openai.com/g/g-Tc0oyYZ4F-kid-s-canvas
+
 
