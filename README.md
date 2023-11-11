@@ -49,6 +49,23 @@ Lastly, activate Custom Instructions when usign DALL-E 3.
 
 **Option 3. GOD MODE: Use GPTs!**
 
+_Must be a ChatGPT Plus user._
+
+Step 1. Open the GPT Builder (click "Explore" in ChatGPT).
+Step 2. Click on "Create a GPT"
+Step 3. GPT Builder will ask you "What would you like to make? Answer with:
+```
+I want you to create amazing images with DALLE 3. I want [type of designs].
+```
+Step 4. Select the name & the profile picture for your GPT.
+Step 5. Provide additional instructions using
+```
+When describing an image, you follow these principles:
+
+<paste the instruction from ChatGPT here>
+```
+
+If you want create illustrations for kids, get this out-of-the-box GPT I created during the video.
 Link to my GPT: https://chat.openai.com/g/g-Tc0oyYZ4F-kid-s-canvas
 
 
