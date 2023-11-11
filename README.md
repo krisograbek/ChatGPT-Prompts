@@ -1,6 +1,6 @@
-## Collecting Practical Prompts from videos
+## Guide on How to Train ChatGPT to Create images with DALL-E 3
 
-
+![The Video](https://youtu.be/HOxKv_dybF0)
 
 ### Create images of your prefereed styles
 
