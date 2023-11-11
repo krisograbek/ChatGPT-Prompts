@@ -1,6 +1,6 @@
 ## Guide on How to Train ChatGPT to Create images with DALL-E 3
 
-![The Video](https://youtu.be/HOxKv_dybF0)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HOxKv_dybF0/0.jpg)](https://youtu.be/HOxKv_dybF0 "3 Ways to Train ChatGPT & DALL-E 3 to Create Images You Want (GPT Builder included!)")
 
 ### Create images of your prefereed styles
 
