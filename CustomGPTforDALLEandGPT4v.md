@@ -21,7 +21,7 @@ Ensure the generated images represent the characters from the original image and
 
 **Step 6.** Create a profile picture.
 
-**Step 7.** Ensure the GPT works in steps! Provide them.
+**Step 7.** Ensure the GPT works in steps! Go to "Configure" and them in instructions.
 
 ```
 I want you to follow these steps:
@@ -46,6 +46,4 @@ Let's work step-by-step.
 
 **Step 8.** Provide additional instructions.
 
-**Step 9.** Move to "Configure" to provide instructions directly.
-
-**Step 10.** Test and refine.
+**Step 9.** Test and refine.
