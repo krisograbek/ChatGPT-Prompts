@@ -2,6 +2,8 @@
 
 *Note*: Must be a Plus user!
 
+**Pre-step** Define your [desired style]. For me, it's "illustrations that 3yo kids will love."
+
 **Step 1.** Open ChatGPT.
 
 **Step 2.** Click on Explore. Or directly go to https://chat.openai.com/gpts/discovery
@@ -11,8 +13,8 @@
 **Step 4.** Start explaining what you need, "Make an assistant...". In our case: 
 
 ```
-Make an artist who converts input images into illustrations suitable for 3yo kids.
-Ensure the illustrations are both great for kids and represent the characters from the original image.
+Make an artist who converts input images into [desired style] using DALLE 3.
+Ensure the generated images represent the characters from the original image and are [desired style].
 ```
 
 **Step 5.** Create a name.
