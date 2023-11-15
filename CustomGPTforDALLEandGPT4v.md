@@ -1,5 +1,8 @@
 ## Create a DALL-E 3 and GPT-4V Custom GPT
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/rbj-J_G3uBE/0.jpg)](https://youtu.be/rbj-J_G3uBE "How to Build Your Own Custom GPT for DALL-E 3 & GPT 4 Vision: Full Guide For Beginners (No Code)")
+
+
 *Note*: Must be a Plus user!
 
 **Pre-step** Define your [desired style]. For me, it's "illustrations that 3yo kids will love."
